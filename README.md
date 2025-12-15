@@ -2,20 +2,21 @@
 
 For my final project, I chose to reformat a final proposal I completed for a grant writing class in HTML. 
 I decided to reformat the paper into HTML, as it was something that I wanted more practice with.
-I will acknowledge that the format in which I originally completed the proposal would be the most effective
-in a digital document or a printed booklet (the original format). 
+I will acknowledge that the format in which the proposal would be the most effective
+is a digital document or a printed booklet (the original format). 
 However, I felt as though practicing HTML would be a more efficient (and fun) use of my time, as my original
 proposal is already print-ready.
 
 Since the project requirement for HTML required 5 specific pages,
 I chose to make each distinct section of the proposal into its own page. 
-I decided to make the navigation bar at the top,
+I decided to make a navigation bar at the top,
 so that the reader can easily click through each section.
 The executive summary became the landing page,
 since that would be the first item that any proposal reviewer would be reading.
 
 In general, for this project, I did my best to combine a modern web look with accessible content.
-The hero image adds some visual interest to the page,
+The banner image adds some visual interest to the page
+(although in my code, I kept calling it a hero image even though it is technically a banner),
 while the title is still readable over the image with a low opacity backdrop.
 The navigation bar maintains the underlined style of the link,
 and I provided visual clues that the link can be clicked.
