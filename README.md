@@ -1,7 +1,7 @@
 # Final Project Commentary
 
 For my final project, I chose to reformat a final proposal I completed for a grant writing class in HTML. 
-I mainly decided to reformat the paper into HTML, as it was something that I wanted more practice with.
+I decided to reformat the paper into HTML, as it was something that I wanted more practice with.
 I will acknowledge that the format in which I originally completed the proposal would be the most effective
 in a digital document or a printed booklet (the original format). 
 However, I felt as though practicing HTML would be a more efficient (and fun) use of my time, as my original
