@@ -5,7 +5,7 @@ I mainly decided to reformat the paper into HTML, as it was something that I wan
 I will acknowledge that the format in which I originally completed the proposal would be the most effective
 in a digital document or a printed booklet (the original format). 
 However, I felt as though practicing HTML would be a more efficient (and fun) use of my time, as my original
-The proposal is already print-ready.
+proposal is already print-ready.
 
 Since the project requirement for HTML required 5 specific pages,
 I chose to make each distinct section of the proposal into its own page. 
@@ -34,7 +34,8 @@ I made sure to:
 * Increase text size
 * Increase line height within paragraphs
 * Added extra margins on either side of the text
-To increase readability.
+to increase readability.
+
 I did my best to follow general web practices,
 such as making the text span shorter than the total length of the browser,
 allowing readers to scan the text more quickly.
@@ -43,16 +44,17 @@ In general, some of the pros of formatting a project in HTML are:
 * High degree of customization
 * No limitations on content
 * Easy to access for digital audiences
+
 However, some of the cons are:
 * Generally slower than using a word processor
 * More work to make the project responsive/cross-device
 * Not print-ready
 * Need to upload the page to an external site like GitHub
 
-Overall, I enjoyed the flexibility that this project allowed,
+Overall, I enjoyed the flexibility that this project allowed.
 I was able to get creative with my website design.
 I find HTML to be a fun coding language, and being able to
-Efficiently creating content for websites is something that I
+efficiently create content for websites is something that I
 expect to do in my future career.
 Through the reformatting of the proposal,
 I was able to make a website that is both clean and readable.
